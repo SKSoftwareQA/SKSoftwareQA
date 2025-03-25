@@ -1,4 +1,4 @@
-# Hi, I’m Deepak | 🔍 QA/QC Engineer | 🛠️ 🚀Quality Advocate
+# Hi, I’m Deepak | 🔍 QA/QC Engineer | 🛠️ 🚀Quality Advocate |  ♿ Accessibility Advocate | 📱 Mobile QA Expert | 🏆 Tosca Certified
 
 ## 👋 About Me
 
@@ -12,9 +12,11 @@ I architect bulletproof software quality through:
 
 🔬 Testing Mastery
 
-📋 Test Planning & Estimation – Crafting lean strategies for maximum coverage
+📋 Test Planning & Estimation – Crafting lean strategies for maximum coverage (Risk-based coverage)
 
-⚡ Exploratory & Ad-hoc Testing – Uncovering edge cases others miss
+♿ Accessibility Compliance (WCAG, Axe, VoiceOver)
+
+⚡ Exploratory & Ad-hoc Testing – Uncovering edge cases others miss (User-journey simulation)
 
 🔗 Broken Link/SEO Testing – Ensuring flawless user journeys
 
@@ -28,30 +30,47 @@ I architect bulletproof software quality through:
 
 🔄 CI/CD Pipelines (Jenkins, GitLab)
 
-🚀 Why Partners Choose Me
-✔ Risk-Based Approach – Focused testing where it matters most
-✔ Data-Driven Decisions – Metrics-backed quality improvements
+📱 Mobile Testing (Appium, XCUITest, Espresso, Device Farms)
+
+🏗️ Agile-QA Integration (Scrum/Kanban)
+
+🤖 Tosca Automation (Model-based testing, API validation)
+
+🔧 Technical Powerhouse
+
+🧪 E2E Test Automation (Manual, Playwright)
+
+💡 Let's build digital products that are:
+Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-schedule)
+
+🚀 Why Choose My Expertise?
+✔ Full-Cycle Quality Ownership - From requirements to production
+✔ Agile Testing Evangelist - Quality gates in every sprint
 ✔ Agile Collaboration – Bridging gaps between Devs, PMs and Stakeholders
+✔ Inclusive Design Champion - ADA/WCAG compliance baked in
+✔ Risk-Based Approach – Focused testing where it matters most
+✔ Tosca Optimization - 40% faster script maintenance
+
 
 📈 Let's build software that survives real-world chaos!
 ---
 
 
 #### **Test Cases 📋✔️**
-- Functional, Usability, Regression, End-to-End, API Testing, and Database Testing.
+✔ Functional, Usability, Regression, End-to-End, API Testing, and Database Testing.
 
 ---
 
 ### **Domain Expertise 💻**
-- AI/ML Based applications
-- Salesforce-CRM
-- E-Commerce, Banking and Finance apps
-- Chatbot/ Whats Bot Apps 
-- E-learning and educational platforms
-- Gaming Applications
-- Affiliate Marketing  
-- Healthcare and Medical applications
-- Social Media apps
+✔ AI/ML Based applications
+✔ Salesforce-CRM
+✔ E-Commerce, Banking and Finance apps
+✔ Chatbot/ Whats Bot Apps 
+✔ E-learning and educational platforms
+✔ Gaming Applications
+✔ Affiliate Marketing  
+✔ Healthcare and Medical applications
+✔ Social Media apps
 
 ---
 
@@ -80,23 +99,23 @@ I architect bulletproof software quality through:
 ---
 
 ### **Testing Types 🧪⚗️**
-- Functional Testing  
-- REST API Testing  
-- Database Testing  
-- Regression Testing  
-- Mobile Testing  
-- Accessibility Testing
-- Automation Testing
+✔ Functional Testing  
+✔ REST API Testing  
+✔ Database Testing  
+✔ Regression Testing  
+✔ Mobile Testing  
+✔ Accessibility Testing
+✔ Automation Testing
 
 ---
 
 ### **Programming & Query Languages 💻🔍**
-- Python  
-- SQL  
+✔ Python  
+✔ SQL  
 
 ---
 ### **My New Learnings  📚✨**
-- Automation Frameworks
-- Automating Accessibility Testing  
+✔ Automation Frameworks
+✔ Automating Accessibility Testing  
 
 
