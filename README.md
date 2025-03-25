@@ -16,24 +16,20 @@ Passionate about building flawless software through precision testing, automatio
 
 
 #### **Test Cases**
-- Functional, Usability, API Testing, and Database Testing.
-
-
-#### **Database Testing**
-- SQL
+- Functional, Usability, Regression, End-to-End, API Testing, and Database Testing.
 
 ---
 
 ### **Domain Expertise 💻**
 - AI/ML Based applications
-- E-Commerce, Banking and Finance apps
-- E-learning and educational platforms
 - Salesforce-CRM
+- E-Commerce, Banking and Finance apps
+- Chatbot/ Whats Bot Apps 
+- E-learning and educational platforms
+- Gaming Applications
 - Affiliate Marketing  
-- Chatbot/ Whats Bot Apps  
 - Healthcare and Medical applications
 - Social Media apps
-- Gaming Applications
 
 ---
 
@@ -43,7 +39,7 @@ Passionate about building flawless software through precision testing, automatio
 | **Project Management** | Jira, Trello, ClickUp, ASANA, Notion                                 |
 | **Test Case Mgmt**     | TestRail, Xray, Xypher                                               |
 | **Documentation**      | Confluence, Google Docs.                                             |
-| **Communication**      | Slack, SKype, Microsoft Teams, Google Chat + Google Meet, Zoom       |
+| **Communication**      | Slack, Skype, Microsoft Teams, Google Chat + Google Meet, Zoom       |
 | **Accessibility**      | Axe, WAVE, Lighthouse, Siteimprove, JAWS, NVDA, VoiceOver            |
 | **Storage**            | Google Drive, GitHub                                                 |
 | **API Testing**        | Postman, Swagger                                                     |
