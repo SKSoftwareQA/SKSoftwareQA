@@ -56,6 +56,15 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 
 📈 Let's build software that survives real-world chaos!
+
+### 🔬 **Testing Expertise**  
+
+| **Specialization**       | **Tools/Methodologies**                          | **Impact**                          |
+|--------------------------|-----------------------------------------------|-----------------------------------|
+| ♿ **Accessibility Testing** | Axe, WAVE, JAWS, VoiceOver                  | 100% WCAG compliance              |
+| 📱 **Mobile QA**         | Appium, Espresso, Device Farms               | 30% faster defect detection       |
+| 🤖 **Test Automation**   | Playwright, Tosca, REST Assured              | 60% test coverage increase        |
+| ⚡ **Performance Testing** | JMeter, Lighthouse                          | 50% latency reduction             |
 ---
 
 
@@ -75,6 +84,13 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ✔ Healthcare and Medical applications
 ✔ Social Media apps
 
+### 🏆 **Domain Experience**  
+**Top 3 Industries:**  
+- **🏦 FinTech/Banking** (PCI-DSS compliant testing)  
+- **🏥 HealthTech** (HIPAA validation, EHR testing)  
+- **🛒 E-Commerce** (Load testing for 1M+ users)  
+
+**Also experienced in:** AI/ML, Salesforce CRM, Chatbots, Gaming  
 ---
 
 ### **Tools 🔧**
@@ -94,15 +110,17 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 | **CI/CD & DevOps**     | Jenkins, GitLab CI                                                   |
 | **Debugging**          | Chrome DevTools                                                      |
 
+### 🛠️ **Tech Stack**  
+**Automation:** Playwright, Tosca, Postman  
+**Accessibility:** Axe, WAVE, JAWS  
+**CI/CD:** Jenkins, GitLab CI  
+**Mobile:** Appium, XCUITest, Firebase Test Lab  
 -->
 ## 🏆 Achievements 🏆
 ![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
 
-### 🏆 **Key Achievements**  
-- **40%** faster regression cycles via Tosca model-based testing  
-- **Zero** accessibility lawsuits for clients (WCAG AAA compliance)  
-- **1M+** test cases automated for Fortune 500 e-commerce client  
+
 ---
 
 ### **Testing Types 🧪⚗️**
