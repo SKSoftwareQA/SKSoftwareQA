@@ -1,13 +1,11 @@
-# Hi, I’m Deepak | 🛡️ **QA/QC Lead** | ♿ **Accessibility Advocate & Consultant** |
+# Hi, I’m Deepak | 🛡️ **Senior QA/QC Engineer & Consultant** | ♿ **Accessibility Advocate** |♿ WCAG Compliance Expert |📱 Mobile Testing Specialist
 
 ## 👋 About Me  
-**QA/QC Leader** with 5+ years of experience in **end-to-end quality assurance** across AI/ML, FinTech, HealthTech, and E-Commerce. I specialize in:  
+**QA/QC Architect** with immense experience in **end-to-end quality assurance** across AI/ML, FinTech, HealthTech, and E-Commerce. I specialize in:  
 - **Building 0-bug releases** through precision testing  
 - **Inclusive design compliance** (WCAG AAA)  
 - **Agile QA transformation** (40% faster releases)  
 
-🚀 **Trusted by startups & enterprises** to deliver **market-ready, accessible, and high-performance apps**.  
- 
 🚀 **Want a flawless, high-performance app—delivered on time and bug-free?** Let’s build excellence together. **Hire Me**! **🚀
 
 ---
@@ -67,12 +65,6 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 | ⚡ **Performance Testing** | JMeter, Lighthouse                          | 50% latency reduction             |
 ---
 
-
-#### **Test Cases 📋✔️**
-✔ Functional, Usability, Regression, End-to-End, API Testing, and Database Testing.
-
----
-
 ### **Domain Expertise 💻**
 ✔ AI/ML Based applications
 ✔ Salesforce-CRM
@@ -84,13 +76,6 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ✔ Healthcare and Medical applications
 ✔ Social Media apps
 
-### 🏆 **Domain Experience**  
-**Top 3 Industries:**  
-- **🏦 FinTech/Banking** (PCI-DSS compliant testing)  
-- **🏥 HealthTech** (HIPAA validation, EHR testing)  
-- **🛒 E-Commerce** (Load testing for 1M+ users)  
-
-**Also experienced in:** AI/ML, Salesforce CRM, Chatbots, Gaming  
 ---
 
 ### **Tools 🔧**
@@ -110,11 +95,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 | **CI/CD & DevOps**     | Jenkins, GitLab CI                                                   |
 | **Debugging**          | Chrome DevTools                                                      |
 
-### 🛠️ **Tech Stack**  
-**Automation:** Playwright, Tosca, Postman  
-**Accessibility:** Axe, WAVE, JAWS  
-**CI/CD:** Jenkins, GitLab CI  
-**Mobile:** Appium, XCUITest, Firebase Test Lab  
+ 
 -->
 ## 🏆 Achievements 🏆
 ![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
