@@ -1,8 +1,9 @@
-# Hey, I'm Deepak 👋
+# Hi, I’m Deepak | QA/QC Engineer | Quality Advocate
 
 ## About Me
+
 As a detail-oriented and result-driven **Team Lead & QA/QC Engineer**, I bring hands-on experience in **Manual, Automation, Accessibility, and Mobile Testing**.  
-Passionate about ensuring software quality, optimizing test processes, and contributing to robust, bug-free releases. Always learning and adapting to new technologies to enhance testing efficiency.  
+Passionate about building flawless software through precision testing, automation, and cutting-edge QA methodologies. Let’s ensure your product is as robust as it is innovative! 
 
 🚀 **If you want to have a rock-solid app with ZERO bugs? Let’s talk! 🚀"** and delivered on time, HIRE ME!**  
 
@@ -39,16 +40,21 @@ Passionate about ensuring software quality, optimizing test processes, and contr
 ### **Tools 🔧**
 | Category              | Tools                                                                 |
 |-----------------------|-----------------------------------------------------------------------|
-| **Project Management** | Jira, Trello, ClickUp                                                |
-| **Test Case Mgmt**     | TestRail, Xray                                                       |
-| **Documentation**      | Confluence                                                           |
-| **Communication**      | Slack                                                                |
-| **Debugging**          | Chrome DevTools                                                      |
+| **Project Management** | Jira, Trello, ClickUp, ASANA, Notion                                 |
+| **Test Case Mgmt**     | TestRail, Xray, Xypher                                               |
+| **Documentation**      | Confluence, Google Docs.                                             |
+| **Communication**      | Slack, SKype, Microsoft Teams, Google Chat + Google Meet, Zoom       |
+| **Accessibility**      | Axe, WAVE, Lighthouse, Siteimprove, JAWS, NVDA, VoiceOver            |
 | **Storage**            | Google Drive, GitHub                                                 |
-| **API Testing**        | Postman                                                              |
+| **API Testing**        | Postman, Swagger                                                     |
+| **Database Testing**   | SQL, PostgreSQL                                                      |
 | **IDEs**               | PyCharm, VS Code, Eclipse                                            |
-| **Automation**         | Playwright, TOSCA                               |
+| **Automation**         | Playwright, TOSCA, Postman, REST Assured                             |
 | **Performance**        | JMeter                                                               |
+| **CI/CD & DevOps**     | Jenkins, GitLab CI                                                   |
+| **Debugging**          | Chrome DevTools                                                      |
+
+
 
 ---
 
@@ -56,11 +62,10 @@ Passionate about ensuring software quality, optimizing test processes, and contr
 - Functional Testing  
 - REST API Testing  
 - Database Testing  
-- Automated Testing  
 - Regression Testing  
-- Mobile Automation Testing  
-- Performance/Load Testing  
-- Grey Box Testing  
+- Mobile Testing  
+- Accessibility Testing
+- Automation Testing
 
 ---
 
