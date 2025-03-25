@@ -1,4 +1,4 @@
-# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿ Accessibility- WCAG Compliance Expert |♿ |📱 Mobile Testing Specialist
+# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿Accessibility- WCAG Compliance Expert |📱 Mobile Testing Specialist
 
 ## 👋 About Me  
 
@@ -43,6 +43,7 @@ I architect bulletproof software quality through:
 
 💡 Let's build digital products that are:
 Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-schedule)
+---
 
 🚀 Why Choose My Expertise?
 
@@ -55,7 +56,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ✔ Inclusive Design Champion - ADA/WCAG compliance baked in
 
 ✔ Risk-Based Approach – Focused testing where it matters most
-
+---
 
 📈 Let's build software that survives real-world chaos!
 
@@ -67,7 +68,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 | 📱 **Mobile QA**             | Appium, Espresso, Device Farms         | 30% faster defect detection    |
 | 🤖 **Test Automation**       | Playwright, Tosca, REST Assured        | 60% test coverage increase     |
 | ⚡ **Performance Testing**   | JMeter, Lighthouse                     | 50% latency reduction          |
---
+---
 
 ### **Domain Expertise 💻**
 
