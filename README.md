@@ -4,8 +4,8 @@
 
 As a detail-oriented and result-driven **Team Lead & QA/QC Engineer**, I bring hands-on experience in **Manual, Automation, Accessibility, and Mobile Testing**.  
 Passionate about building flawless software through precision testing, automation, and cutting-edge QA methodologies. Let’s ensure your product is as robust as it is innovative! 
-
-🚀 **If you want to have a rock-solid app with ZERO bugs? Let’s talk! 🚀"** and delivered on time, HIRE ME!**  
+  
+🚀 **Want a flawless, high-performance app—delivered on time and bug-free?** Let’s build excellence together. **Hire Me**! **🚀
 
 
 ### **My New Learnings**
