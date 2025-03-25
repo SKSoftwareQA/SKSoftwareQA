@@ -1,4 +1,4 @@
-# Hi, I’m Deepak | 🛡️ **Senior QA Lead** | ♿ **Accessibility Advocate** | 🤖 **Test Automation Architect**
+# Hi, I’m Deepak | 🛡️ **QA/QC Lead** | ♿ **Accessibility Advocate & Consultant** |
 
 ## 👋 About Me  
 **QA/QC Leader** with 5+ years of experience in **end-to-end quality assurance** across AI/ML, FinTech, HealthTech, and E-Commerce. I specialize in:  
