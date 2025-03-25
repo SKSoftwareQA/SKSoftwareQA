@@ -7,11 +7,6 @@ Passionate about building flawless software through precision testing, automatio
   
 🚀 **Want a flawless, high-performance app—delivered on time and bug-free?** Let’s build excellence together. **Hire Me**! **🚀
 
-
-### **My New Learnings**
-- Automation Frameworks
-- Automating Accessibility Testing  
-
 ---
 
 
@@ -50,7 +45,10 @@ Passionate about building flawless software through precision testing, automatio
 | **CI/CD & DevOps**     | Jenkins, GitLab CI                                                   |
 | **Debugging**          | Chrome DevTools                                                      |
 
-
+-->
+## 🏆 Achievements
+![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 ---
 
@@ -70,8 +68,8 @@ Passionate about building flawless software through precision testing, automatio
 - SQL  
 
 ---
+### **My New Learnings**
+- Automation Frameworks
+- Automating Accessibility Testing  
 
--->
-## 🏆 Achievements
-![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
+
