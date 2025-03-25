@@ -1,6 +1,6 @@
-# Hi, I’m Deepak | QA/QC Engineer | Quality Advocate
+# Hi, I’m Deepak | 🔍 QA/QC Engineer | 🛠️ 🚀Quality Advocate
 
-## About Me
+## 👋 About Me
 
 As a detail-oriented and result-driven **Team Lead & QA/QC Engineer**, I bring hands-on experience in **Manual, Automation, Accessibility, and Mobile Testing**.  
 Passionate about building flawless software through precision testing, automation, and cutting-edge QA methodologies. Let’s ensure your product is as robust as it is innovative! 
@@ -10,7 +10,7 @@ Passionate about building flawless software through precision testing, automatio
 ---
 
 
-#### **Test Cases**
+#### **Test Cases 📋✔️**
 - Functional, Usability, Regression, End-to-End, API Testing, and Database Testing.
 
 ---
@@ -46,13 +46,13 @@ Passionate about building flawless software through precision testing, automatio
 | **Debugging**          | Chrome DevTools                                                      |
 
 -->
-## 🏆 Achievements
+## 🏆 Achievements 🏆
 ![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 ---
 
-### **Testing Types 🧪**
+### **Testing Types 🧪⚗️**
 - Functional Testing  
 - REST API Testing  
 - Database Testing  
@@ -63,12 +63,12 @@ Passionate about building flawless software through precision testing, automatio
 
 ---
 
-### **Programming & Query Languages**
+### **Programming & Query Languages 💻🔍**
 - Python  
 - SQL  
 
 ---
-### **My New Learnings**
+### **My New Learnings  📚✨**
 - Automation Frameworks
 - Automating Accessibility Testing  
 
