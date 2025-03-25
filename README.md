@@ -1,4 +1,4 @@
-# Hi, I’m Deepak | 🔍 QA/QC Engineer | 🛠️ 🚀Quality Advocate |  ♿ Accessibility Advocate | 📱 Mobile QA Expert | 🏆 Tosca Certified
+# Hi, I’m Deepak | 🔍 QA/QC Engineer & Advocate 🛠️| ♿ Accessibility Advocate & Cosultant |📱 Mobile QA Expert | 🏆 Tosca Certified |
 
 ## 👋 About Me
 
