@@ -1,10 +1,13 @@
-# Hi, I’m Deepak | 🔍QA/QC Engineer🛠️| ♿Accessibility Cosultant & Advocate|📱Mobile QA Expert | 🏆Tosca Certified
+# Hi, I’m Deepak | 🛡️ **Senior QA Lead** | ♿ **Accessibility Advocate** | 🤖 **Test Automation Architect**
 
-## 👋 About Me
+## 👋 About Me  
+**QA/QC Leader** with 5+ years of experience in **end-to-end quality assurance** across AI/ML, FinTech, HealthTech, and E-Commerce. I specialize in:  
+- **Building 0-bug releases** through precision testing  
+- **Inclusive design compliance** (WCAG AAA)  
+- **Agile QA transformation** (40% faster releases)  
 
-As a detail-oriented and result-driven **Team Lead & QA/QC Engineer**, I bring hands-on experience in **Manual, Automation, Accessibility, and Mobile Testing**.  
-Passionate about building flawless software through precision testing, automation, and cutting-edge QA methodologies. Let’s ensure your product is as robust as it is innovative! 
-  
+🚀 **Trusted by startups & enterprises** to deliver **market-ready, accessible, and high-performance apps**.  
+ 
 🚀 **Want a flawless, high-performance app—delivered on time and bug-free?** Let’s build excellence together. **Hire Me**! **🚀
 
 ---
@@ -96,6 +99,10 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
 
+### 🏆 **Key Achievements**  
+- **40%** faster regression cycles via Tosca model-based testing  
+- **Zero** accessibility lawsuits for clients (WCAG AAA compliance)  
+- **1M+** test cases automated for Fortune 500 e-commerce client  
 ---
 
 ### **Testing Types 🧪⚗️**
@@ -117,5 +124,9 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ### **My New Learnings  📚✨**
 ✔ Automation Frameworks
 ✔ Automating Accessibility Testing  
+---
+## 📩 **Let’s Build Quality Together!**  
+✉️ deepaksharadmittal@gmail.com
+---
 
 
