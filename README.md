@@ -1,23 +1,21 @@
 # Hey, I'm Deepak 👋
 
 ## About Me
-As a detail-oriented and result-driven **Team Lead & QA/QC Engineer**, I bring hands-on experience in **Manual, Automation, Accessibility, and Mobile testing**.  
-
-Testing and Quality Assurance are not just my profession—they’re my passion. I take pleasure in the process of **"DESTRUCTIVE CREATION"** to make applications more **"CONSTRUCTIVE."** With my expertise, I ensure your application functions flawlessly with **exceptional endurance**.  
+As a detail-oriented and result-driven **Team Lead & QA/QC Engineer**, I bring hands-on experience in **Manual, Automation, Accessibility, and Mobile Testing**.  
+Passionate about ensuring software quality, optimizing test processes, and contributing to robust, bug-free releases. Always learning and adapting to new technologies to enhance testing efficiency.  
 
 🚀 **If you want to have a rock-solid app with ZERO bugs? Let’s talk! 🚀"** and delivered on time, HIRE ME!**  
 
 
 ### **My New Learnings**
-- Mobile Accessibility Testing
+- Automation Frameworks
 - Automating Accessibility Testing  
 
 ---
 
 
-
 #### **Test Cases**
-- Functional, Usability, API Testing  
+- Functional, Usability, API Testing, and Database Testing.
 
 
 #### **Database Testing**
@@ -26,14 +24,15 @@ Testing and Quality Assurance are not just my profession—they’re my passion.
 ---
 
 ### **Domain Expertise 💻**
-- AI/ML Bases applications
-- e-Commerce, Banking and Finance apps
-- e-Learning and educational platforms
+- AI/ML Based applications
+- E-Commerce, Banking and Finance apps
+- E-learning and educational platforms
 - Salesforce-CRM
 - Affiliate Marketing  
 - Chatbot/ Whats Bot Apps  
-- Healthcare applications
-- Social Media  
+- Healthcare and Medical applications
+- Social Media apps
+- Gaming Applications
 
 ---
 
