@@ -1,4 +1,4 @@
-# Hi, I’m Deepak | 🛡️ **Senior QA/QC Engineer & Consultant** | ♿ **Accessibility Advocate** |♿ WCAG Compliance Expert |📱 Mobile Testing Specialist
+# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿ Accessibility- WCAG Compliance Expert |♿ |📱 Mobile Testing Specialist
 
 ## 👋 About Me  
 **QA/QC Architect** with immense experience in **end-to-end quality assurance** across AI/ML, FinTech, HealthTech, and E-Commerce. I specialize in:  
@@ -46,10 +46,15 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 🚀 Why Choose My Expertise?
 ✔ Full-Cycle Quality Ownership - From requirements to production
+
 ✔ Agile Testing Evangelist - Quality gates in every sprint
+
 ✔ Agile Collaboration – Bridging gaps between Devs, PMs and Stakeholders
+
 ✔ Inclusive Design Champion - ADA/WCAG compliance baked in
+
 ✔ Risk-Based Approach – Focused testing where it matters most
+
 ✔ Tosca Optimization - 40% faster script maintenance
 
 
@@ -67,13 +72,21 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 ### **Domain Expertise 💻**
 ✔ AI/ML Based applications
+
 ✔ Salesforce-CRM
+
 ✔ E-Commerce, Banking and Finance apps
+
 ✔ Chatbot/ Whats Bot Apps 
+
 ✔ E-learning and educational platforms
+
 ✔ Gaming Applications
+
 ✔ Affiliate Marketing  
+
 ✔ Healthcare and Medical applications
+
 ✔ Social Media apps
 
 ---
@@ -105,12 +118,18 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ---
 
 ### **Testing Types 🧪⚗️**
-✔ Functional Testing  
+✔ Functional Testing
+
 ✔ REST API Testing  
+
 ✔ Database Testing  
+
 ✔ Regression Testing  
+
 ✔ Mobile Testing  
+
 ✔ Accessibility Testing
+
 ✔ Automation Testing
 
 ---
