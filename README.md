@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🏆 Achievements
+![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
