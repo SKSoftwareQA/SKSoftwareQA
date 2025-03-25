@@ -8,6 +8,33 @@ Passionate about building flawless software through precision testing, automatio
 🚀 **Want a flawless, high-performance app—delivered on time and bug-free?** Let’s build excellence together. **Hire Me**! **🚀
 
 ---
+I architect bulletproof software quality through:
+
+🔬 Testing Mastery
+
+📋 Test Planning & Estimation – Crafting lean strategies for maximum coverage
+
+⚡ Exploratory & Ad-hoc Testing – Uncovering edge cases others miss
+
+🔗 Broken Link/SEO Testing – Ensuring flawless user journeys
+
+🧩 Integration & E2E Testing – Validating complex system interactions
+
+🤖 Test Automation ( Playwright, Tosca)
+
+📊 Performance Engineering (JMeter)
+
+🗄️ Database Validation (SQL)
+
+🔄 CI/CD Pipelines (Jenkins, GitLab)
+
+🚀 Why Partners Choose Me
+✔ Risk-Based Approach – Focused testing where it matters most
+✔ Data-Driven Decisions – Metrics-backed quality improvements
+✔ Agile Collaboration – Bridging gaps between Devs, PMs and Stakeholders
+
+📈 Let's build software that survives real-world chaos!
+---
 
 
 #### **Test Cases 📋✔️**
