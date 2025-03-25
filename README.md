@@ -1,7 +1,9 @@
 # Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿ Accessibility- WCAG Compliance Expert |♿ |📱 Mobile Testing Specialist
 
 ## 👋 About Me  
-**QA/QC Architect** with immense experience in **end-to-end quality assurance** across AI/ML, FinTech, HealthTech, and E-Commerce. I specialize in:  
+
+**QA/QC Expert** with immense experience in **end-to-end quality assurance** across AI/ML, Salesforce-CRM, FinTech, HealthTech, and E-Commerce. I specialize in:
+
 - **Building 0-bug releases** through precision testing  
 - **Inclusive design compliance** (WCAG AAA)  
 - **Agile QA transformation** (40% faster releases)  
@@ -31,8 +33,6 @@ I architect bulletproof software quality through:
 
 🔄 CI/CD Pipelines (Jenkins, GitLab)
 
-📱 Mobile Testing (Appium, XCUITest, Espresso, Device Farms)
-
 🏗️ Agile-QA Integration (Scrum/Kanban)
 
 🤖 Tosca Automation (Model-based testing, API validation)
@@ -45,6 +45,7 @@ I architect bulletproof software quality through:
 Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-schedule)
 
 🚀 Why Choose My Expertise?
+
 ✔ Full-Cycle Quality Ownership - From requirements to production
 
 ✔ Agile Testing Evangelist - Quality gates in every sprint
@@ -55,22 +56,21 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 ✔ Risk-Based Approach – Focused testing where it matters most
 
-✔ Tosca Optimization - 40% faster script maintenance
-
 
 📈 Let's build software that survives real-world chaos!
 
 ### 🔬 **Testing Expertise**  
 
-| **Specialization**       | **Tools/Methodologies**                          | **Impact**                          |
-|--------------------------|-----------------------------------------------|-----------------------------------|
-| ♿ **Accessibility Testing** | Axe, WAVE, JAWS, VoiceOver                  | 100% WCAG compliance              |
-| 📱 **Mobile QA**         | Appium, Espresso, Device Farms               | 30% faster defect detection       |
-| 🤖 **Test Automation**   | Playwright, Tosca, REST Assured              | 60% test coverage increase        |
-| ⚡ **Performance Testing** | JMeter, Lighthouse                          | 50% latency reduction             |
----
+| **Specialization**            | **Tools/Methodologies**                | **Impact**                     |
+|-------------------------------|----------------------------------------|--------------------------------|
+| ♿ **Accessibility Testing** | Axe, WAVE, JAWS, VoiceOver             | 100% WCAG compliance           |
+| 📱 **Mobile QA**             | Appium, Espresso, Device Farms         | 30% faster defect detection    |
+| 🤖 **Test Automation**       | Playwright, Tosca, REST Assured        | 60% test coverage increase     |
+| ⚡ **Performance Testing**   | JMeter, Lighthouse                     | 50% latency reduction          |
+--
 
 ### **Domain Expertise 💻**
+
 ✔ AI/ML Based applications
 
 ✔ Salesforce-CRM
@@ -92,8 +92,9 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ---
 
 ### **Tools 🔧**
-| Category              | Tools                                                                 |
-|-----------------------|-----------------------------------------------------------------------|
+
+| Category               | Tools                                                                |
+|------------------------|----------------------------------------------------------------------|
 | **Project Management** | Jira, Trello, ClickUp, ASANA, Notion                                 |
 | **Test Case Mgmt**     | TestRail, Xray, Xypher                                               |
 | **Documentation**      | Confluence, Google Docs.                                             |
@@ -111,6 +112,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
  
 -->
 ## 🏆 Achievements 🏆
+
 ![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
 
@@ -118,6 +120,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ---
 
 ### **Testing Types 🧪⚗️**
+
 ✔ Functional Testing
 
 ✔ REST API Testing  
@@ -135,16 +138,23 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ---
 
 ### **Programming & Query Languages 💻🔍**
-✔ Python  
+
+✔ Python 
+
 ✔ SQL  
 
 ---
 ### **My New Learnings  📚✨**
+
 ✔ Automation Frameworks
+
 ✔ Automating Accessibility Testing  
+
 ---
 ## 📩 **Let’s Build Quality Together!**  
-✉️ deepaksharadmittal@gmail.com
+
+✉️ [deepaksharadmittal@gmail.com]
+
 ---
 
 
