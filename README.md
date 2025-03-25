@@ -53,9 +53,10 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 ✔ Risk-Based Approach – Focused testing where it matters most
 
+📈 Let's build software that survives real-world chaos!
+
 ---
 
-📈 Let's build software that survives real-world chaos!
 
 ### 🔬 **Testing Expertise**  
 
