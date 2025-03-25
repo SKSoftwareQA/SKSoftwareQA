@@ -1,4 +1,4 @@
-# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿Accessibility- WCAG Compliance Expert |📱 Mobile Testing Specialist
+# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿Accessibility- WCAG/ADA Compliance Expert |📱 Mobile Testing Specialist
 
 ## 👋 About Me  
 
@@ -17,7 +17,7 @@ I architect bulletproof software quality through:
 
 📋 Test Planning & Estimation – Crafting lean strategies for maximum coverage (Risk-based coverage)
 
-♿ Accessibility Compliance (WCAG, Axe, VoiceOver)
+♿ Accessibility Compliance (WCAG, ADA, Axe, VoiceOver)
 
 ⚡ Exploratory & Ad-hoc Testing – Uncovering edge cases others miss (User-journey simulation)
 
@@ -35,11 +35,7 @@ I architect bulletproof software quality through:
 
 🏗️ Agile-QA Integration (Scrum/Kanban)
 
-🤖 Tosca Automation (Model-based testing, API validation)
-
-🔧 Technical Powerhouse
-
-🧪 E2E Test Automation (Manual, Playwright)
+🧪 E2E Test (Manual, Automation- Playwright)
 
 💡 Let's build digital products that are:
 Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-schedule)
@@ -56,6 +52,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ✔ Inclusive Design Champion - ADA/WCAG compliance baked in
 
 ✔ Risk-Based Approach – Focused testing where it matters most
+
 ---
 
 📈 Let's build software that survives real-world chaos!
@@ -117,7 +114,6 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ![Achievement](https://img.shields.io/badge/Awesome-Developer-brightgreen)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
 
-
 ---
 
 ### **Testing Types 🧪⚗️**
@@ -143,13 +139,6 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ✔ Python 
 
 ✔ SQL  
-
----
-### **My New Learnings  📚✨**
-
-✔ Automation Frameworks
-
-✔ Automating Accessibility Testing  
 
 ---
 ## 📩 **Let’s Build Quality Together!**  
