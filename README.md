@@ -62,8 +62,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 | **Specialization**            | **Tools/Methodologies**                | **Impact**                     |
 |-------------------------------|----------------------------------------|--------------------------------|
-| ♿ **Accessibility Testing** | Axe, WAVE, JAWS, VoiceOver             | 100% WCAG compliance           |
-| 📱 **Mobile QA**             | Appium, Espresso, Device Farms         | 30% faster defect detection    |
+| ♿ **Accessibility Testing** | Axe, WAVE, JAWS, VoiceOver             | 100% WCAG compliance           | 
 | 🤖 **Test Automation**       | Playwright, Tosca, REST Assured        | 60% test coverage increase     |
 | ⚡ **Performance Testing**   | JMeter, Lighthouse                     | 50% latency reduction          |
 ---
