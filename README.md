@@ -33,7 +33,7 @@ I architect bulletproof software quality through:
 
 🔄 CI/CD Pipelines (Jenkins, GitLab)
 
-🏗️ Agile-QA Integration (Scrum/Kanban)
+🏗️ Agile-QA Integration (Scrum/ Kanban)
 
 🧪 E2E Test (Manual, Automation- Playwright)
 
