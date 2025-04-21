@@ -61,7 +61,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ### 🔬 **Testing Expertise**  
 
 | **Specialization**            | **Tools/Methodologies**                | **Impact**                     |
-|-------------------------------|----------------------------------------|--------------------------------|
+|-------------------------------|----------------------------------------|------------------------------- |
 | ♿ **Accessibility Testing** | Axe, WAVE, JAWS, VoiceOver             | 100% WCAG compliance           | 
 | 🤖 **Test Automation**       | Playwright, Tosca, REST Assured        | 60% test coverage increase     |
 | ⚡ **Performance Testing**   | JMeter, Lighthouse                     | 50% latency reduction          |
@@ -144,6 +144,7 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 ## 📩 **Let’s Build Quality Together!**  
 
 ✉️ [deepaksharadmittal@gmail.com]
+
 
 
 ---
