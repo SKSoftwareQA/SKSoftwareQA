@@ -1,4 +1,4 @@
-# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿Accessibility- WCAG/ADA Compliance Expert |📱 Mobile Testing Specialist
+# Hi, I’m Deepak |🛡️Senior QA/QC Engineer & Consultant | ♿Accessibility- WCAG/ADA Compliance Expert |📱 Mobile/Game Testing Specialist
 
 ## 👋 About Me  
 
@@ -145,7 +145,8 @@ Robust (0 critical bugs) | Inclusive (A/AA/AAA accessible) | Market-ready (on-sc
 
 ✉️ [deepaksharadmittal@gmail.com]
 
-
+Webpage-https://sksoftwareqa.github.io/DMTesting.github.io/
+Mob.What'sApp- +91-9826095510
 
 ---
 
